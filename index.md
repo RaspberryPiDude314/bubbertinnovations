@@ -21,7 +21,7 @@
 
 ---
 
-### Category Name 2
+### Links
 
 - [Website](http://eighteenthreefifty.one/)
 
